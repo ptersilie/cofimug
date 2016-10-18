@@ -1,0 +1,9 @@
+cfg = {
+    "<name>": {
+        "ip": "<device ip address>",
+        "mac": "<device mac address>",
+        "companycode": "<company code>",
+        "devicecode": "<device code>",
+        "authcode": "<auth code>"
+    }
+}
